@@ -1,5 +1,3 @@
-# kasper
-kasper template
-PSD to HTML
-Copyright PSD - Kasper
-Copyright HTML - smerticariu
+# Kasper
+###Kasper HTML template
+###PSD to HTML using Bootstrap 3
